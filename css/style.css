@@ -1,0 +1,13 @@
+.option {
+    padding: 20px;
+    z-index: 999;
+}
+
+.shape-one {
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 5%;
+	left: 4%;
+	background: url(img/simple.gif) -10px -20px;
+}
